@@ -6,6 +6,9 @@ Official Channels
     Official Email: luckymonkeycoin@proton.me
     Official X.com Account: @luckymonkeycoin
     Official GitHub: LuckyMonkeyMayor
+    Official Token Address: 0xA6f2DBcb23f88B35679e15983544D17712F7A2E5
+    Network: Arbitrum
+    https://arbiscan.io/token/0xA6f2DBcb23f88B35679e15983544D17712F7A2E5
 
 We will never ask for money or request your private keys. Be cautious of any unsolicited messages or requests—these are not from us.
 About Lucky Monkey Coin
