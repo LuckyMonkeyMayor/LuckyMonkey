@@ -1,3 +1,5 @@
+Currently Trying to Get listed on Coin Market Cap - Will have updates!
+
 Disclaimer
 
 Please note that all cryptocurrencies carry inherent risks. Always conduct thorough research before engaging in any crypto-related activities. By interacting with the Lucky Monkey Coin project, you acknowledge and accept these risks.
